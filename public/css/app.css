@@ -6293,7 +6293,10 @@ footer .icone2 {
     flex-wrap: wrap;
   }
   .nav-bar ul {
-    font-size: 15px !important;
+    font-size: 40%;
+    display: flex;
+    padding-left: 0;
+    justify-content: center;
   }
 
   .section1 p {
